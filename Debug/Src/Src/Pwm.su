@@ -1,0 +1,2 @@
+../Src/Src/Pwm.c:6:6:Pwm_Init	4	static
+../Src/Src/Pwm.c:84:6:Pwm_Duty	24	static
